@@ -1,0 +1,36 @@
+#main-logo {
+  height: 125px;
+  width: 125px;
+  margin-left: 40%;
+}
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  font-weight: bolder;
+}
+
+#navbarNav {
+  text-align: center;
+}
+
+#sweet-carousel{
+    height: 3750%;
+    width: 100%;
+}
+
+.sweet-images{
+    height: 3750%;
+}
+
+@media (min-width:1200px){
+    .sweet-images{
+        height: 600px;
+    }
+}
