@@ -1,3 +1,7 @@
+body {
+  overflow-x : hidden;
+}
+
 /* Title Section -> Navbar Section */
 #main-logo {
   height: 125px;
