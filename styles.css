@@ -43,6 +43,7 @@ body {
 /* Features Section */
 .row {
   padding: 4rem 5rem;
+  margin-right : 0;
 }
 #about-image {
   width: 80%;
